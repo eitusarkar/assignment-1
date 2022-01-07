@@ -1,0 +1,110 @@
+.blog{
+    color: blueviolet;
+}
+.vlog{
+    background-color: crimson;
+    color: white;
+    border: 7px;
+    border-radius: 5px;
+    justify-content: space-around;
+    
+}
+.parents{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    margin: 0;
+    text-align: center;
+}
+.chip{
+    padding: 30px;
+    margin: 3px;
+}
+.chop{
+    color: yellow;
+    text-align: center;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+.projects{
+    background-color: teal;
+    padding: 40px;
+    margin: 0;
+    border: 2px;
+    border-radius: 7px;
+    box-shadow: 4px 4px 12px;
+    justify-content: space-around;
+}
+.corner{
+    background-color: thistle;
+    padding: 40px;
+    margin: 0;
+    border: 2px;
+    border-radius: 7px;
+    box-shadow: 4px 4px 12px;
+    justify-content: space-around;
+}
+.crop{
+    background-color: turquoise;
+    padding: 40px;
+      margin: 0;
+    border: 2px;
+    border-radius: 7px;
+    box-shadow: 4px 4px 12px;
+    justify-content: space-around;
+}
+.popular{
+    text-align: center;
+}
+.large{
+    text-align: center;
+}
+.behind{
+    text-align: center;
+}
+.all-division{
+    display: flex;
+    gap: 30px;
+ justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+}
+.goat{
+    padding: 150px;
+    border: 2px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px;
+    
+}
+.div-img{
+    width: 100%;
+
+}
+.grep{
+    text-align: center;
+}
+.drive{
+    color: chocolate;
+}
+.normal_photo{
+    width: 100%;
+    border-radius: 3px;
+}
+.hire{
+    text-align: center;
+}
+.hip{
+    color: darkgreen;
+}
+.hide{
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+}
+.footer{
+    background-color: black;
+    text-align:center;
+    color: white;
+}
